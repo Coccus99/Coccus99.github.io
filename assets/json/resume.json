@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Renyu Rao",
-    "label": "Ph.D. Student in Statistics and Operations Research",
+    "label": "Ph.D. Student",
     "image": "",
     "email": "renyu@unc.edu",
     "phone": "",
@@ -27,13 +27,38 @@
     {
       "institution": "University of North Carolina at Chapel Hill",
       "url": "https://stor.unc.edu/",
-      "area": "Probability Theory",
+      "area": " Statistics and Operations Research",
       "studyType": "Ph.D.",
       "startDate": "08/23",
       "endDate": "05/28",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        ""
+      ]
+    }
+    {
+      "institution": "Columbia University",
+      "url": "https://stat.columbia.edu/",
+      "area": " Statistics",
+      "studyType": "M.A.",
+      "startDate": "08/21",
+      "endDate": "12/22",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }
+
+    {
+      "institution": "Stony Brook University",
+      "url": "https://www.math.stonybrook.edu/stony-brook-mathematics-department-and-institute-mathematical-sciences",
+      "area": " Mathematics",
+      "studyType": "B.S.",
+      "startDate": "08/18",
+      "endDate": "05/21",
+      "score": "",
+      "courses": [
+        ""
       ]
     }
   ],
