@@ -36,7 +36,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <h2>Education</h2>
 
 
-<img class="eduimg" src="assets/img/assets/img/University_of_North_Carolina_at_Chapel_Hill_seal.svg.png" width="70" height="70" >
+<img class="eduimg" src="assets/img/University_of_North_Carolina_at_Chapel_Hill_seal.svg.png" width="70" height="70" >
 <p class="edutext"> <b> University of North Carolina at Chapel Hill </b><br> Ph.D. Statistics and Operations Research, 2023–2028 </p>
 
 
@@ -48,7 +48,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <img class="eduimg" src="assets/img/stony_logo.png" width="70" height="70">
-<p class="edutext"><b> Stony Brook University </b><br> B.S. Mathematics <br>B.S. Applied Math &amp; Statistics, 2018–2021</p>
+<div  class="edutext">
+<p><b> Stony Brook University </b><br> B.S. Mathematics <br>B.S. Applied Math &amp; Statistics, 2018–2021</p>
 </div>
 
 
