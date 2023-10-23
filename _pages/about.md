@@ -49,7 +49,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <img class="eduimg" src="assets/img/stony_logo.png" width="70" height="70">
 <div  class="edutext">
-<p><b> Stony Brook University </b><br>2018–2021<br> B.S. Mathematics <br>B.S. Applied Math &amp; Statistics</p>
+<p><b> Stony Brook University </b><br> B.S. Mathematics, 2018–2021<br>B.S. Applied Math &amp; Statistics</p>
 </div>
 
 
