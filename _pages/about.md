@@ -36,13 +36,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <img class="eduimg" src="assets/img/unc_logo.png" width="70" height="70" >
 
 
-<p style="display:inline"> <b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
+<p overflow: hidden; white-space: nowrap;> <b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
 
 
 
 <img class="eduimg" src="assets/img/columbia_logo.png" width="70" height="70">
 
-<span role="paragraph"><b> Shanghai Jiao Tong University </b><br> BS, Materials Science &amp; Engineering, 2016–2020<br>BS, Computer Science, 2017–2020 </span>
+p<b> Shanghai Jiao Tong University </b><br> BS, Materials Science &amp; Engineering, 2016–2020<br>BS, Computer Science, 2017–2020 </p>
 
 
 <img class="eduimg" src="assets/img/stony_logo.png" width="70" height="70">
