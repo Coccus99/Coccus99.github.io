@@ -36,7 +36,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <img class="eduimg" src="assets/img/unc_logo.png" width="70" height="70" >
 
 
-<p overflow: hidden; white-space: nowrap;> <b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
+<p overflow: hidden; white-space: nowrap; style="text-align:left;"> <b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
 
 
 
