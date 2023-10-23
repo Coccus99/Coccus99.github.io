@@ -36,20 +36,19 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <h2>Education</h2>
 
 
-<img class="eduimg" src="assets/img/unc_logo.png" width="70" height="70" >
-<p class="edutext"> <b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
+<img class="eduimg" src="assets/img/assets/img/University_of_North_Carolina_at_Chapel_Hill_seal.svg.png" width="70" height="70" >
+<p class="edutext"> <b> University of North Carolina at Chapel Hill </b><br> Ph.D., Statistics and Operations Research, 2023–2028 </p>
 
 
 
 <img class="eduimg" src="assets/img/columbia_logo.png" width="70" height="70">
 
-<p class="edutext"><b> Shanghai Jiao Tong University </b><br> BS, Materials Science &amp; Engineering, 2016–2020<br>BS, Computer Science, 2017–2020 </p>
+<p class="edutext"><b> Columbia University </b><br> M.A., Statistics, 2021-2022</p>
 
 
 
 <img class="eduimg" src="assets/img/stony_logo.png" width="70" height="70">
-<div  class="edutext">
-<p><b> University of Oxford </b><br> Visiting Scholar, Department of Materials, 2018 </p>
+<p class="edutext"><b> Stony Brook University </b><br> B.S., Mathematics <br>B.S., Applied Math &amp; Statistics, 2018–2021</p>
 </div>
 
 
