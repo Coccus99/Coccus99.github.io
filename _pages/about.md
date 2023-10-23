@@ -42,7 +42,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <img class="eduimg" src="assets/img/columbia_logo.png" width="70" height="70">
 
-<p class="edutext"><b> Shanghai Jiao Tong University </b><br> BS, Materials Science &amp; Engineering, 2016–2020<br>BS, Computer Science, 2017–2020 </p>
+<span role="paragraph"><b> Shanghai Jiao Tong University </b><br> BS, Materials Science &amp; Engineering, 2016–2020<br>BS, Computer Science, 2017–2020 </span>
 
 
 <img class="eduimg" src="assets/img/stony_logo.png" width="70" height="70">
