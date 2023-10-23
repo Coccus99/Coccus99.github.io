@@ -37,7 +37,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <img class="eduimg" src="assets/img/University_of_North_Carolina_at_Chapel_Hill_seal.svg.png" width="70" height="70" >
-<p class="edutext"> <b> University of North Carolina at Chapel Hill </b><br> Ph.D. Statistics and Operations Research, 2023–2028 </p>
+<p class="edutext"> <b> University of North Carolina at Chapel Hill </b><br>2023–2028<br> Ph.D. Statistics and Operations Research </p>
 
 
 
