@@ -48,7 +48,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 <img class="eduimg" src="assets/img/stony_logo.png" width="70" height="70">
-<p class="edutext"><b> University of Oxford </b><br> Visiting Scholar, Department of Materials, 2018 </p>
+<div  class="edutext">
+<p><b> University of Oxford </b><br> Visiting Scholar, Department of Materials, 2018 </p>
+</div>
 
 
 
