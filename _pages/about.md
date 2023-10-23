@@ -26,13 +26,14 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 <style>
-  .eduimg {border:4px solid #1b6b6f; padding:15px;}
+  .eduimg {margin: 0px 32px 0px 16px;}
 </style>
+
 <div class="education">
 <h2>Education</h2>
 
 
-<img class="eduimg" src="assets/img/unc_logo.png">
+<img class="eduimg" src="assets/img/unc_logo.png" width="70" height="70">
 
 
 <p class="edutext"><b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
