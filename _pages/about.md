@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <div class="education">
 <h2>Education</h2>
-<img class="eduimg" src="assets/img/nu_logo.webp">
+<img class="eduimg" src="assets/img/unc_logo.jpg">
 
 
 <p class="edutext"><b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
