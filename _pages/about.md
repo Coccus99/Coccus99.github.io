@@ -33,10 +33,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <h2>Education</h2>
 
 
-<img class="eduimg" src="assets/img/unc_logo.png" width="70" height="70">
+<img class="eduimg" src="assets/img/unc_logo.png" width="70" height="70" >
 
 
-<p> <b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
+<p style = "display:inline-block;"> <b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
 
 
 
