@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://renyu.io/sitemap.xml
+Sitemap: https://Coccus99.github.io/sitemap.xml
