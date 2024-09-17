@@ -15,14 +15,14 @@ nav_order: 5
         <col style="width:45%">
         <col style="width:15%">
       </colgroup>
-      <thead class="thead-light">
+      <!--<thead class="thead-light">-->
         <tr>
           <th scope="col">Date</th>
           <th scope="col">Lecture</th>
           <th scope="col">Readings</th>
           <th scope="col">Logistics</th>
         </tr>
-      </thead>
+      <!--</thead>-->
       <tbody>
         
 <tr class="past">
