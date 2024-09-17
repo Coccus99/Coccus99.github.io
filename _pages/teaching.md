@@ -6,7 +6,6 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 5
 ---
-
 <table class="table table-hover">
       <colgroup>
         <col style="width:5%">
@@ -18,6 +17,7 @@ nav_order: 5
         <tr>
           <th scope="col">Date</th>
           <th scope="col">Lecture</th>
+          <th scope="col">Readings</th>
           <th scope="col">Materials</th>
           <th scope="col">Logistics</th>
         </tr>
@@ -56,7 +56,6 @@ nav_order: 5
         
         <ul>
         
-        
             <li> <a href="https://colab.research.google.com/drive/1zCAovJdllorKUlz44DxfyBb0ugT77knV?usp=sharing" target="_blank">Sum of Two Dice.</a></li>
         
         </ul>
@@ -67,8 +66,5 @@ nav_order: 5
     </td>
     
 </tr>
-
-
-
       </tbody>
     </table>
