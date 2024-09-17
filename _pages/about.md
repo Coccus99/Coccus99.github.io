@@ -19,7 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently, I am a second-year Ph.D. student in the Department of Statistics and Operations Research at UNC Chapel Hill. My current research focus is on probability theory and I also have some interest in applications of AI/ML. I pursued my Master's degree in Statistics for one and a half years at Columbia University with a generous scholarship where I ignited my passion for probability. Before grad school, I spent three years at Stony Brook University studying pure mathematics. I also participated in various math competitions in high school like AMC12, AIME, ARML, etc, and had the honor to serve as a member of the New York City Math Team. 
+I am a second-year Ph.D. student in the Department of Statistics and Operations Research at UNC Chapel Hill. My current research focus is on probability theory and I also have some interest in applications of AI/ML. 
+
+I pursued my Master's degree in Statistics for one and a half years at Columbia University with a generous scholarship where I ignited my passion for probability. Before grad school, I spent three years at Stony Brook University studying pure mathematics. 
+
+I also participated in various math competitions in high school like AMC12, AIME, ARML, etc, and had the honor to serve as a member of the New York City Math Team. 
 
 <!--Write my biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
