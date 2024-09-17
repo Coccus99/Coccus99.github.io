@@ -18,7 +18,7 @@ nav_order: 5
         <tr>
           <th scope="col">Date</th>
           <th scope="col">Lecture</th>
-          <th scope="col">Readings</th>
+          <th scope="col">Materials</th>
           <th scope="col">Logistics</th>
         </tr>
       </thead>
@@ -56,11 +56,8 @@ nav_order: 5
         
         <ul>
         
-            <li><a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S &amp; B Textbook</a>, Ch1</li>
         
-            <li>Smith &amp; Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a></li>
-        
-            <li>Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a></li>
+            <li> <a href="https://colab.research.google.com/drive/1zCAovJdllorKUlz44DxfyBb0ugT77knV?usp=sharing" target="_blank">Sum of Two Dice.</a></li>
         
         </ul>
         
